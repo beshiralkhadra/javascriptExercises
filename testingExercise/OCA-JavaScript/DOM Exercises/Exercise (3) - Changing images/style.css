@@ -1,0 +1,10 @@
+        .image1  {
+            width: 400px;
+            height: 200px;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            /* background-color: aqua; */
+            margin-top: 1rem;
+            background-image: url('./img/placeholder-image.png');
+        }

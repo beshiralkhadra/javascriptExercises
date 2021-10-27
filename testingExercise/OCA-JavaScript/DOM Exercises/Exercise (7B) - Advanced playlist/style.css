@@ -1,0 +1,19 @@
+div{
+    background-color: #eeeeee;
+    border: 2px solid;
+    padding: 1rem;
+    width: 80%;
+    height: auto;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    display:hidden;
+}
+
+button {
+    background-color:red;
+    border: 1px solid;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 1rem;
+}
